@@ -35,6 +35,7 @@ If you have any question about this repo, you may open an issue or contact me di
 You can find more of my work at [My Github Repo](https://github.com/${data.github} "My GitHub Repo")
 ## Sample
 Deployed project can be found at: ${data.deployURL}
+
 Below is a sample screenshot:
 ![Project Sample](${data.demoURL} "Project Sample")
 `;
