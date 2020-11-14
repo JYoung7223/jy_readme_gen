@@ -46,14 +46,18 @@ function printSteps(steps){
   if((steps == null)||(steps.length < 1)){
     return;
   }
-  
+
   let type = typeof steps;
   if(type === "string"){
     return `> ${steps}`;
   }
 
-  steps.forEach((step,index) => {
-    response += `> ${index}. ${step}`+"\n";
+  let line = 1;
+  steps.forEach((step) => {
+    if(step.trim().length > 0){
+      response += `> ${line}. ${step}`+"\n";
+      line++;
+    }
   });
   return response;
 }
