@@ -8,9 +8,9 @@ ${data.description}
 ## Table of Contents
 * [\`Project\`](#)
 * [\`Description\`](#Description)
-* [\`Table of Contents\`](#Table%20of%20Contents)
-* [\`1nstallation Steps\`](#Installation%20Steps)
-* [\`Usage Information\`](#Usage%20Information)
+* [\`Table of Contents\`](#Table-of-Contents)
+* [\`1nstallation Steps\`](#Installation-Steps)
+* [\`Usage Information\`](#Usage-Information)
 * [\`Testing\`](#Testing)
 * [\`License\`](#License)
 * [\`Contributing\`](#Contributing)
